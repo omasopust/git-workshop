@@ -6,3 +6,6 @@ Just a repo to teach some git basics
 - [x] commits
 - [x] branches
 - local repo commands
+
+## Seznam scriptů
+- Marek.py - pokusnej script pro push
