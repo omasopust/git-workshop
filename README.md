@@ -7,5 +7,7 @@ Just a repo to teach some git basics
 - [x] branches
 - [ ] local repo commands
 
-## Seznam scriptů
-- Marek.py - pokusnej script pro push
+## Scripts
+- Marek.py
+- ondrej.js
+- jirka.js
